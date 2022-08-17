@@ -1,0 +1,50 @@
+body {
+      background-color: black;
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FkBl8iEgUc05pqdNezhDsSke33Vc%3D%2F0x0%3A4388x3284%2F1820x1213%2Ffilters%3Afocal(1786x630%3A2488x1332)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F69338806%2Fusa_today_16093262.0.jpg&f=1&nofb=1');
+}
+    h1 {
+      color: white;
+    }
+  h3 {
+      color: white;
+    }
+    p {
+      color: white;
+    }
+    details{
+      color: white;
+    }
+  figcaption{
+    color: white;
+  }
+    button{
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+p {
+  border: 5px black;
+   margin: 50px;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+table, th, td{
+      text-decoration-color: white;
+      color:  white;
+      border: 1px solid red;
+      background-color: none;
+      font-size: 50px;
+      border-width: medium;
+      border-color: red;
+    }
+    a{
+      color: white;
+      text-decoration: none;
+    }
